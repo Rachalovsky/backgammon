@@ -11,7 +11,7 @@ API for calculating the number of points scored by the winner and the type of hi
 1. Clone the repository:
 
 ```
-$ git clone https://github.com/kirylrachalovsky/backgammon.git
+$ git clone https://github.com/Rachalovsky/backgammon.git
 $ cd backgammon
 ```
 2. Build docker containers:
@@ -69,4 +69,5 @@ curl -X 'POST' \
 ## Swagger
 To test endpoints, you can use Swagger at http://127.0.0.1:8000/docs
 
-Test data in the file [data_for_testing.txt](https://github.com/kirylrachalovsky/backgammon/blob/main/data_for_testing.txt)
+Test data in the file [data_for_testing.txt](https://github.com/Rachalovsky/backgammon/blob/main/data_for_testing.txt)
+
